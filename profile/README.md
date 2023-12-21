@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ynov-2023-m1-team-7">
-    <img src="img/ArchitectureEquipe7.png" alt="Logo" >
+    <img src="img/ArchitectureEquipe7new.png" alt="Logo" >
   </a>
 </div>
 
